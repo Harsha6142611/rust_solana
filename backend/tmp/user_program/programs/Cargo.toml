@@ -1,0 +1,6 @@
+[lib]
+name = "user_program"
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+anchor-lang = "0.23.0"

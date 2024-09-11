@@ -1,0 +1,5 @@
+[workspace]
+members = ["programs/user_program", "tests"]
+
+[dependencies]
+anchor-lang = "0.23.0"
